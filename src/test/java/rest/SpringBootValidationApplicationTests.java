@@ -1,10 +1,10 @@
-package Project.to.demonstrate.String.Boot.validation.library.and.exception.handling;
+package rest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootValidationAndExceptionsApplicationTests {
+class SpringBootValidationApplicationTests {
 
 	@Test
 	void contextLoads() {
